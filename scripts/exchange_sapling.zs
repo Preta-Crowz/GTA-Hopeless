@@ -1,0 +1,25 @@
+recipes.addShaped(<minecraft:sapling:0>,[
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>],
+    [<minecraft:dirt>,<terrafirmacraft:sapling>,<minecraft:dirt>],
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>]
+]);
+recipes.addShaped(<minecraft:sapling:1>,[
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>],
+    [<minecraft:dirt>,<terrafirmacraft:sapling:8>,<minecraft:dirt>],
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>]
+]);
+recipes.addShaped(<minecraft:sapling:2>,[
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>],
+    [<minecraft:dirt>,<terrafirmacraft:sapling:2>,<minecraft:dirt>],
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>]
+]);
+recipes.addShaped(<minecraft:sapling:3>,[
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>],
+    [<minecraft:dirt>,<terrafirmacraft:sapling:15>,<minecraft:dirt>],
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>]
+]);
+recipes.addShaped(<minecraft:sapling:4>,[
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>],
+    [<minecraft:dirt>,<terrafirmacraft:sapling2>,<minecraft:dirt>],
+    [<minecraft:dirt>,<minecraft:dirt>,<minecraft:dirt>]
+]);

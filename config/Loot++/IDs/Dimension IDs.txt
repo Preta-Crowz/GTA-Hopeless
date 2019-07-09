@@ -1,0 +1,137 @@
+## Dimension IDs                                                      ##
+########################################################################
+## In the form:                                                       ##
+## <dimension id>                                                     ##
+##    - Name: <dimension name>                                        ##
+##    - Height: <dimension height>                                    ##
+##    - Has Sky? <true if dimension has a sky>                        ##
+##    - Cloud Height: <height of dimension's clouds (only on client)> ##
+##    - Can Respawn Here? <true if players can respawn here>          ##
+##    - Terrain Scale: <distance travelled per block (nether is 8)>   ##
+########################################################################
+0
+	- Name: DEFAULT
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 256.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+-1
+	- Name: Nether
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 256.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+1
+	- Name: DEFAULT
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 256.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+-100
+	- Name: Underdark
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 256.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+227
+	- Name: dimensionDarkWorld
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+-42
+	- Name: The Outer Lands
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 1.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-19
+	- Name: Bedrock
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 0.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-112
+	- Name: The Last Millenium
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 256.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+53
+	- Name: First World
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+7
+	- Name: Twilight Forest
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 161.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+6
+	- Name: Mining World
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 300.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-2147483647
+	- Name: CONTROL
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+69
+	- Name: Pocket Plane
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+-2147483648
+	- Name: CONTROL
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+

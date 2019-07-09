@@ -1,0 +1,16 @@
+********************************
+Class: ExAstris.Modifier.ModCrooked
+Interfaces: 
+Constructors: 
+	public ExAstris.Modifier.ModCrooked(net.minecraft.item.ItemStack[] stacks, int effectIndex)
+Modifiers using this: 
+	class ExAstris.Modifier.ModCrooked [key=Crookedstacks=[1xexnihilo.crook_bone@0]effectIndex=60random=java.util.Random@65028c65]
+********************************
+********************************
+Class: ExAstris.Modifier.ModHammered
+Interfaces: 
+Constructors: 
+	public ExAstris.Modifier.ModHammered(net.minecraft.item.ItemStack[] stacks, int effectIndex)
+Modifiers using this: 
+	class ExAstris.Modifier.ModHammered [key=Hammeredstacks=[1xexnihilo.hammer_diamond@0]effectIndex=61random=java.util.Random@65028c65]
+********************************

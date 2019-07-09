@@ -1,0 +1,12 @@
+********************************
+Class: lance5057.tDefense.armor.modifiers.modifierProtection
+Interfaces: 
+Constructors: 
+	public lance5057.tDefense.armor.modifiers.modifierProtection(net.minecraft.item.ItemStack[] stacks, int effectIndex, int initialIncrease, java.lang.String color, java.lang.String type)
+Modifiers using this: 
+	class lance5057.tDefense.armor.modifiers.modifierProtection [key=Protectionstacks=[1xitem.tconstruct.Armor Plate@2]effectIndex=200random=java.util.Random@65028c65]
+	class lance5057.tDefense.armor.modifiers.modifierProtection [key=Fire Protectionstacks=[1xitem.magmaCream@0]effectIndex=201random=java.util.Random@65028c65]
+	class lance5057.tDefense.armor.modifiers.modifierProtection [key=Blast Protectionstacks=[1xtile.cloth@0]effectIndex=202random=java.util.Random@65028c65]
+	class lance5057.tDefense.armor.modifiers.modifierProtection [key=Projectile Protectionstacks=[1xitem.tconstruct.Rivets@2]effectIndex=203random=java.util.Random@65028c65]
+	class lance5057.tDefense.armor.modifiers.modifierProtection [key=Featherfallstacks=[1xitem.modItemsArmor@7]effectIndex=204random=java.util.Random@65028c65]
+********************************

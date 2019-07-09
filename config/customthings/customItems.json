@@ -1,0 +1,24 @@
+{"data":
+	[
+		    {
+                "name": "shard_mana",
+                "maxStackSize": 64,
+                "burnTime":0
+            },
+            {
+                "name": "shard_empty",
+                "maxStackSize": 64,
+                "burnTime":0
+            },
+            {
+                "name": "small_diamond_lattice",
+                "maxStackSize": 64,
+                "burnTime": 0
+            },
+            {
+                "name": "lattice_core",
+                "maxStackSize": 64,
+                "burnTime": 0
+            }
+	]
+}

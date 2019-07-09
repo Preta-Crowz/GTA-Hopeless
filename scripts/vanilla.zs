@@ -1,0 +1,19 @@
+recipes.remove(<minecraft:book:0>);
+recipes.addShaped(<minecraft:book:0>,[
+    [<ImmersiveEngineering:coil>,<ore:materialLeather>,<ore:stickIron>],
+    [<TConstruct:materials>,<TConstruct:materials>,<TConstruct:materials>],
+    [null,<ore:materialLeather>,<ImmersiveEngineering:coil>]
+]);
+
+recipes.remove(<minecraft:iron_bars:0>);
+mods.avaritia.ExtremeCrafting.addShaped(<minecraft:iron_bars>*64,[
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,<ore:ingotAnyIron>,<ore:ingotAnyIron>,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [<ore:ingotAnyIron>,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,<ore:ingotAnyIron>],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,<ore:ingotAnyIron>,<ore:ingotAnyIron>,<ore:ingotAnyIron>,null],
+    [null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null,null,<ore:ingotAnyIron>,null]
+]);

@@ -1,0 +1,414 @@
+{
+  "questSettings": {
+    "betterquesting": {
+      "livesMax": 10,
+      "home_anchor_y": 0.0,
+      "livesDef": 3,
+      "home_anchor_x": 0.5,
+      "hardcore": false,
+      "home_image": "betterquesting:textures/gui/default_title.png",
+      "editMode": true,
+      "home_offset_x": -128,
+      "home_offset_y": 0
+    }
+  },
+  "questDatabase": [
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "partySingleReward": false,
+          "visibility": "NORMAL",
+          "isMain": true,
+          "simultaneous": false,
+          "icon": {
+            "id": "terrafirmacraft:Grass",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": false,
+          "questLogic": "AND",
+          "name": "Are you ready y y y y y",
+          "lockedProgress": false,
+          "autoClaim": false,
+          "isSilent": false,
+          "desc": "Welcome to GTA : Hopeless. This modpack will give you new experince and §cSTRESS!!§r\nIf you are ready now, then check that box and get your workbench,"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "minecraft:crafting_table",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        }
+      ],
+      "preRequisites": [],
+      "questID": 0
+    }
+  ],
+  "questLines": [
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ✡ 🔯🟋🟌🟍🔯🟋🟌] The Beginning",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Welcome to the GTA : Hopeless!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 0
+        }
+      ],
+      "lineID": 0,
+      "order": 0
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ 0 ] ZEROFILL",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 \n00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 \n00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 \n00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 \n00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 "
+        }
+      },
+      "quests": [],
+      "lineID": 1,
+      "order": 1
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ 1🔨 ] HARDNESS",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "HARD STONES!"
+        }
+      },
+      "quests": [],
+      "lineID": 2,
+      "order": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ 2 ] MELT",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "VERY HOT!\n\n\n\n\n想いよ届け君に"
+        }
+      },
+      "quests": [],
+      "lineID": 3,
+      "order": 3
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ T ] Tech",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Warning : Handle with care\n\n\n\n\nかがくの ちからって すげー!"
+        }
+      },
+      "quests": [],
+      "lineID": 4,
+      "order": 5
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ T² ] High-Tech",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "I Believe I Can Fly!"
+        }
+      },
+      "quests": [],
+      "lineID": 5,
+      "order": 7
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Tⁿ ] OVERTECH",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "It\u0027s not tech of this world."
+        }
+      },
+      "quests": [],
+      "lineID": 6,
+      "order": 8
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ 🔁🔀M ] Magic",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Bibbidi-bobbidi-boo."
+        }
+      },
+      "quests": [],
+      "lineID": 7,
+      "order": 6
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ⤨ ] Magitech",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "OwO, what\u0027s this?"
+        }
+      },
+      "quests": [],
+      "lineID": 8,
+      "order": 12
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ H ] HYPERTECH",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Over the OVERTECH"
+        }
+      },
+      "quests": [],
+      "lineID": 9,
+      "order": 11
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ∞ ] INFINITY",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Thanks for Playing. - Team : Zeta"
+        }
+      },
+      "quests": [],
+      "lineID": 10,
+      "order": 13
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ $ ] SHOP",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "The power of money"
+        }
+      },
+      "quests": [],
+      "lineID": 11,
+      "order": 14
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ❓⛋❖ ] Another World",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "N/A"
+        }
+      },
+      "quests": [],
+      "lineID": 12,
+      "order": 4
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ⚝ ] STAR SPACE",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "SPAAAAAAAAAACE!!"
+        }
+      },
+      "quests": [],
+      "lineID": 13,
+      "order": 9
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ ⛒⛞⭙⮾⮿➲ ] OUTER SCIENCE",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Into The VOID"
+        }
+      },
+      "quests": [],
+      "lineID": 14,
+      "order": 10
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[🍎🍞𝛂 α ] Storage",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Applied Energistics 2"
+        }
+      },
+      "quests": [],
+      "lineID": 15,
+      "order": 15
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ β ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [],
+      "lineID": 16,
+      "order": 16
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ π ] Heaven",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Aether 2"
+        }
+      },
+      "quests": [],
+      "lineID": 17,
+      "order": 21
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ δ ] Forest",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Twilight Forest"
+        }
+      },
+      "quests": [],
+      "lineID": 18,
+      "order": 18
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ μ ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [],
+      "lineID": 19,
+      "order": 20
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Σ ] Harvest",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Pam\u0027s Harvest Craft"
+        }
+      },
+      "quests": [],
+      "lineID": 20,
+      "order": 22
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ τ ] Tinker",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Tinkers\u0027 Construct"
+        }
+      },
+      "quests": [],
+      "lineID": 21,
+      "order": 23
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Γ ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [],
+      "lineID": 22,
+      "order": 17
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Θ ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [],
+      "lineID": 23,
+      "order": 19
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Φ ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "No Description"
+        }
+      },
+      "quests": [],
+      "lineID": 24,
+      "order": 24
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "[ Ω ]",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [],
+      "lineID": 25,
+      "order": 25
+    }
+  ],
+  "format": "1.0.0"
+}
