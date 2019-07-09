@@ -4,5 +4,5 @@ Interfaces:
 Constructors: 
 	
 Modifiers using this: 
-	class fox.spiteful.avaritia.compat.ticon.Tonkers$1 [key=AvaritiaFreestacks=[1xitem.avaritia_resource@5]effectIndex=0random=java.util.Random@65028c65]
+	class fox.spiteful.avaritia.compat.ticon.Tonkers$1 [key=AvaritiaFreestacks=[1xitem.avaritia_resource@5]effectIndex=0random=java.util.Random@60448ffa]
 ********************************

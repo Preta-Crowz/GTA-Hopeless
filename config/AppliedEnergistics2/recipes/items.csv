@@ -169,7 +169,7 @@ minecraft:nether_brick, Nether Brick
 minecraft:nether_brick_fence, Nether Brick Fence
 minecraft:nether_brick_stairs, Nether Brick Stairs
 minecraft:enchanting_table, Enchantment Table
-minecraft:end_portal, tile.null.name
+minecraft:end_portal, Unnamed Block, report to mod author.
 minecraft:end_portal_frame, End Portal
 minecraft:end_stone, End Stone
 minecraft:dragon_egg, Dragon Egg
@@ -1295,6 +1295,25 @@ terrafirmacraft:OilLamp:4, Sterling Silver Oil Lamp
 terrafirmacraft:OilLamp:5, Blue Steel Oil Lamp
 terrafirmacraft:Hopper, Hopper
 terrafirmacraft:FlowerPot, Flower Pot
+BuildCraft|Core:eternalSpring:0, Water Spring
+BuildCraft|Core:eternalSpring:1, Oil Spring
+BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
+BuildCraft|Core:engineBlock:0, Redstone Engine
+BuildCraft|Core:engineBlock:1, Stirling Engine
+BuildCraft|Core:engineBlock:2, Combustion Engine
+BuildCraft|Core:engineBlock:3, Creative Engine
+BuildCraft|Core:markerBlock, Land Mark
+BuildCraft|Core:pathMarkerBlock, Path Mark
+BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
+BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
+BuildCraft|Silicon:laserBlock, Laser
+BuildCraft|Silicon:laserTableBlock:0, Assembly Table
+BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
+BuildCraft|Silicon:laserTableBlock:2, Integration Table
+BuildCraft|Silicon:laserTableBlock:3, Charging Table
+BuildCraft|Silicon:laserTableBlock:4, Programming Table
+BuildCraft|Silicon:laserTableBlock:5, Stamping Table
+BuildCraft|Silicon:packagerBlock, Recipe Packager
 IC2:blockOreCopper, ic2.blockOreCopper.name
 IC2:blockOreTin, ic2.blockOreTin.name
 IC2:blockOreUran, ic2.blockOreUran.name
@@ -1431,7 +1450,7 @@ IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
 IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
 IC2:fluidSteam, ic2.fluidSteam.name
 IC2:fluidHotWater, ic2.fluidHotWater.name
-AdvancedSolarPanel:BlockMolecularTransformer, tile.null.name
+AdvancedSolarPanel:BlockMolecularTransformer, Unnamed Block, report to mod author.
 AdvancedSolarPanel:BlockAdvSolarPanel:0, Advanced Solar Panel
 AdvancedSolarPanel:BlockAdvSolarPanel:1, Hybrid Solar Panel
 AdvancedSolarPanel:BlockAdvSolarPanel:2, Ultimate Hybrid Solar Panel
@@ -4181,7 +4200,7 @@ ExtraTrees:planks, tile.planks.name
 ExtraTrees:fence, Fence
 ExtraTrees:multifence, tile.multifence.name
 ExtraTrees:log, Wood
-ExtraTrees:gate, tile.null.name
+ExtraTrees:gate, Unnamed Block, report to mod author.
 ExtraTrees:slab:0, Fir Wood Slab
 ExtraTrees:slab:1, Cedar Wood Slab
 ExtraTrees:slab:2, Hemlock Wood Slab
@@ -4249,17 +4268,6 @@ ExtraBees:alveary:3, Alveary Lighting
 ExtraBees:alveary:4, Electrical Stimulator
 ExtraBees:alveary:5, Hatchery
 ExtraBees:alveary:6, Alveary Transmission
-BuildCraft|Core:eternalSpring:0, Water Spring
-BuildCraft|Core:eternalSpring:1, Oil Spring
-BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
-BuildCraft|Core:engineBlock:0, Redstone Engine
-BuildCraft|Core:engineBlock:1, Stirling Engine
-BuildCraft|Core:engineBlock:2, Combustion Engine
-BuildCraft|Core:engineBlock:3, Creative Engine
-BuildCraft|Core:markerBlock, Land Mark
-BuildCraft|Core:pathMarkerBlock, Path Mark
-BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
-BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Factory:miningWellBlock, Mining Well
 BuildCraft|Factory:plainPipeBlock, Mining Pipe
 BuildCraft|Factory:autoWorkbenchBlock, Auto Workbench
@@ -4268,14 +4276,6 @@ BuildCraft|Factory:pumpBlock, Pump
 BuildCraft|Factory:floodGateBlock, Flood Gate
 BuildCraft|Factory:refineryBlock, Refinery
 BuildCraft|Factory:blockHopper, Chute
-BuildCraft|Silicon:laserBlock, Laser
-BuildCraft|Silicon:laserTableBlock:0, Assembly Table
-BuildCraft|Silicon:laserTableBlock:1, Advanced Crafting Table
-BuildCraft|Silicon:laserTableBlock:2, Integration Table
-BuildCraft|Silicon:laserTableBlock:3, Charging Table
-BuildCraft|Silicon:laserTableBlock:4, Programming Table
-BuildCraft|Silicon:laserTableBlock:5, Stamping Table
-BuildCraft|Silicon:packagerBlock, Recipe Packager
 BuildCraft|Robotics:zonePlan, Zone Planner
 BuildCraft|Robotics:requester, Requester
 BuildCraft|Energy:blockOil, Oil
@@ -7298,7 +7298,7 @@ exnihilo:witchwater, Witch Water
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
+ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -8053,7 +8053,7 @@ exastris:barrel_thaumium, tile.exastris.barrel_thaumium.name
 exastris:bee_trap_infused, Mana Infused Artificial Hive
 exastris:sieve_automatic:0, Automatic Sieve
 exastris:hammer_automatic, Automatic Hammerer
-exastris:endcake, tile.null.name
+exastris:endcake, Unnamed Block, report to mod author.
 exastris:CobaltOreBlock:0, Cobalt Ore Gravel
 exastris:CobaltOreBlock:1, Cobalt Ore Sand
 exastris:CobaltOreBlock:2, Cobalt Ore Dust
@@ -8319,22 +8319,21 @@ ExtraTiC:moltenConstantan, Molten Constantan
 ExtraTiC:blockFunStuff:0, Fairy Block
 ExtraTiC:blockFunStuff:1, Pokefennium Block
 ExtraTiC:blockFunStuff:2, RedAurum Block
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
 ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:animationTablet, Dynamism Tablet
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:enchanter, Osmotic Enchanter
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -8347,22 +8346,23 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:warpGate, Celestial Gateway
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -10368,7 +10368,7 @@ malisisdoors:block_mixer, Block Mixer
 malisisdoors:mixed_block, Mixed Block
 malisisdoors:garage_door, Garage Door
 malisisdoors:door_factory, Door Factory
-malisisdoors:null, tile.null.name
+malisisdoors:null, Unnamed Block, report to mod author.
 malisisdoors:rustyHatch, Rusty Hatch
 malisisdoors:rustyLadder, Rusty Ladder
 malisisdoors:carriage_door, Carriage Door
@@ -10738,7 +10738,7 @@ spmodapi:SavePlatedHempBrick:12, Light Blue Plated Hemp Brick
 spmodapi:SavePlatedHempBrick:13, Magenta Plated Hemp Brick
 spmodapi:SavePlatedHempBrick:14, Orange Plated Hemp Brick
 spmodapi:SavePlatedHempBrick:15, White Plated Hemp Brick
-spmodapi:MultiSign, tile.null.name
+spmodapi:MultiSign, Unnamed Block, report to mod author.
 spmodapi:BlockAPI:0, MobMachine
 spmodapi:BlockAPI:1, Cobblestone Storage
 spmodapi:BlockAPI:2, Basic Exp Storage
@@ -10902,7 +10902,7 @@ ThaumicHorizons:crystalTH:15, Black Crystal
 ThaumicHorizons:crystalDeep, Deep Crystal
 ThaumicHorizons:leviathanTH, Primordial Fossil
 ThaumicHorizons:slotTH, Keystone Receptacle
-ThaumicHorizons:portalTH, tile.null.name
+ThaumicHorizons:portalTH, Unnamed Block, report to mod author.
 ThaumicHorizons:gatewayTH, Planar Gateway
 trevelations:blockExubitura, Exubitura Rose
 trevelations:blockInfusedQuartzNormal, Infused Quartz Block
@@ -11968,6 +11968,107 @@ terrafirmacraft:item.Sandwich:0, Sandwich
 terrafirmacraft:item.Salad:0, Salad
 terrafirmacraft:item.Sugar, Sugar
 terrafirmacraft:item.shears, Shears
+BuildCraft|Core:wrenchItem, Wrench
+BuildCraft|Core:mapLocation, Map Location
+BuildCraft|Core:list:0, List
+BuildCraft|Core:list:1, List
+BuildCraft|Core:debugger, Debugger
+BuildCraft|Core:woodenGearItem, Wood Gear
+BuildCraft|Core:stoneGearItem, Stone Gear
+BuildCraft|Core:ironGearItem, Iron Gear
+BuildCraft|Core:goldGearItem, Gold Gear
+BuildCraft|Core:diamondGearItem, Diamond Gear
+BuildCraft|Core:paintbrush, Paintbrush
+BuildCraft|Transport:pipeWaterproof, Pipe Sealant
+BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone:0, Cobblestone Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone:0, Stone Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz:0, Quartz Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron:0, Iron Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold:0, Golden Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:0, Diamond Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian:0, Obsidian Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis:0, Lazuli Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli:0, Daizuli Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone:0, Sandstone Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid:0, Void Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli:0, Emzuli Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes:0, Stripes Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay:0, Clay Transport Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidswood:0, Wooden Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone:0, Cobblestone Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone:0, Stone Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz:0, Quartz Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron:0, Iron Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold:0, Golden Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald:0, Emerald Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond:0, Diamond Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone:0, Sandstone Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid:0, Void Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay:0, Clay Fluid Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowerwood:0, Wooden Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone:0, Cobblestone Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowerstone:0, Stone Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz:0, Quartz Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepoweriron:0, Iron Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowergold:0, Golden Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond:0, Diamond Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald:0, Emerald Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone:0, Sandstone Kinesis Pipe
+BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone:0, Cobblestone Structure Pipe
+BuildCraft|Transport:pipeWire:0, Red Pipe Wire
+BuildCraft|Transport:pipeWire:1, Blue Pipe Wire
+BuildCraft|Transport:pipeWire:2, Green Pipe Wire
+BuildCraft|Transport:pipeWire:3, Yellow Pipe Wire
+BuildCraft|Transport:pipeGate, item.pipeGate.name
+BuildCraft|Transport:pipePlug, item.pipePlug.name
+BuildCraft|Transport:pipeLens:0, Lens (Black)
+BuildCraft|Transport:pipeLens:1, Lens (Red)
+BuildCraft|Transport:pipeLens:2, Lens (Green)
+BuildCraft|Transport:pipeLens:3, Lens (Brown)
+BuildCraft|Transport:pipeLens:4, Lens (Blue)
+BuildCraft|Transport:pipeLens:5, Lens (Purple)
+BuildCraft|Transport:pipeLens:6, Lens (Cyan)
+BuildCraft|Transport:pipeLens:7, Lens (Light Gray)
+BuildCraft|Transport:pipeLens:8, Lens (Gray)
+BuildCraft|Transport:pipeLens:9, Lens (Pink)
+BuildCraft|Transport:pipeLens:10, Lens (Lime)
+BuildCraft|Transport:pipeLens:11, Lens (Yellow)
+BuildCraft|Transport:pipeLens:12, Lens (Light Blue)
+BuildCraft|Transport:pipeLens:13, Lens (Magenta)
+BuildCraft|Transport:pipeLens:14, Lens (Orange)
+BuildCraft|Transport:pipeLens:15, Lens (White)
+BuildCraft|Transport:pipeLens:16, Filter (Black)
+BuildCraft|Transport:pipeLens:17, Filter (Red)
+BuildCraft|Transport:pipeLens:18, Filter (Green)
+BuildCraft|Transport:pipeLens:19, Filter (Brown)
+BuildCraft|Transport:pipeLens:20, Filter (Blue)
+BuildCraft|Transport:pipeLens:21, Filter (Purple)
+BuildCraft|Transport:pipeLens:22, Filter (Cyan)
+BuildCraft|Transport:pipeLens:23, Filter (Light Gray)
+BuildCraft|Transport:pipeLens:24, Filter (Gray)
+BuildCraft|Transport:pipeLens:25, Filter (Pink)
+BuildCraft|Transport:pipeLens:26, Filter (Lime)
+BuildCraft|Transport:pipeLens:27, Filter (Yellow)
+BuildCraft|Transport:pipeLens:28, Filter (Light Blue)
+BuildCraft|Transport:pipeLens:29, Filter (Magenta)
+BuildCraft|Transport:pipeLens:30, Filter (Orange)
+BuildCraft|Transport:pipeLens:31, Filter (White)
+BuildCraft|Transport:pipeLens:32, Lens (Clear)
+BuildCraft|Transport:pipeLens:33, Filter (Clear)
+BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
+BuildCraft|Transport:gateCopier, Gate Copier
+BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
+BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
+BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
+BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
+BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
+BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
+BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
+BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
+BuildCraft|Silicon:package, Package
+BuildCraft|Silicon:redstoneCrystal, Crystalized Redstone
 IC2:itemHarz, ic2.itemHarz.name
 IC2:itemRubber, ic2.itemRubber.name
 IC2:itemFluidCell, ic2.itemFluidCell.name
@@ -12621,6 +12722,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.WoodHoriz4.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fire Brick Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bookshelf
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Workbench
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreCopper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreTin
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreUran
@@ -12930,7 +13032,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Apatite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tin
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bronze
-appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Ore
@@ -16908,107 +17009,6 @@ ExtraBees:misc:23, White Dye
 ExtraBees:misc:24, Black Dye
 ExtraBees:misc:25, Brown Dye
 ExtraBees:misc:26, Clay Dust
-BuildCraft|Core:wrenchItem, Wrench
-BuildCraft|Core:mapLocation, Map Location
-BuildCraft|Core:list:0, List
-BuildCraft|Core:list:1, List
-BuildCraft|Core:debugger, Debugger
-BuildCraft|Core:woodenGearItem, Wood Gear
-BuildCraft|Core:stoneGearItem, Stone Gear
-BuildCraft|Core:ironGearItem, Iron Gear
-BuildCraft|Core:goldGearItem, Gold Gear
-BuildCraft|Core:diamondGearItem, Diamond Gear
-BuildCraft|Core:paintbrush, Paintbrush
-BuildCraft|Transport:pipeWaterproof, Pipe Sealant
-BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Wooden Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Emerald Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone:0, Cobblestone Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone:0, Stone Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz:0, Quartz Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron:0, Iron Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold:0, Golden Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:0, Diamond Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian:0, Obsidian Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis:0, Lazuli Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli:0, Daizuli Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone:0, Sandstone Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid:0, Void Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli:0, Emzuli Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes:0, Stripes Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay:0, Clay Transport Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidswood:0, Wooden Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone:0, Cobblestone Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone:0, Stone Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz:0, Quartz Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron:0, Iron Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold:0, Golden Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald:0, Emerald Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond:0, Diamond Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone:0, Sandstone Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid:0, Void Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay:0, Clay Fluid Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowerwood:0, Wooden Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone:0, Cobblestone Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowerstone:0, Stone Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz:0, Quartz Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepoweriron:0, Iron Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowergold:0, Golden Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond:0, Diamond Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald:0, Emerald Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone:0, Sandstone Kinesis Pipe
-BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone:0, Cobblestone Structure Pipe
-BuildCraft|Transport:pipeWire:0, Red Pipe Wire
-BuildCraft|Transport:pipeWire:1, Blue Pipe Wire
-BuildCraft|Transport:pipeWire:2, Green Pipe Wire
-BuildCraft|Transport:pipeWire:3, Yellow Pipe Wire
-BuildCraft|Transport:pipeGate, item.pipeGate.name
-BuildCraft|Transport:pipePlug, item.pipePlug.name
-BuildCraft|Transport:pipeLens:0, Lens (Black)
-BuildCraft|Transport:pipeLens:1, Lens (Red)
-BuildCraft|Transport:pipeLens:2, Lens (Green)
-BuildCraft|Transport:pipeLens:3, Lens (Brown)
-BuildCraft|Transport:pipeLens:4, Lens (Blue)
-BuildCraft|Transport:pipeLens:5, Lens (Purple)
-BuildCraft|Transport:pipeLens:6, Lens (Cyan)
-BuildCraft|Transport:pipeLens:7, Lens (Light Gray)
-BuildCraft|Transport:pipeLens:8, Lens (Gray)
-BuildCraft|Transport:pipeLens:9, Lens (Pink)
-BuildCraft|Transport:pipeLens:10, Lens (Lime)
-BuildCraft|Transport:pipeLens:11, Lens (Yellow)
-BuildCraft|Transport:pipeLens:12, Lens (Light Blue)
-BuildCraft|Transport:pipeLens:13, Lens (Magenta)
-BuildCraft|Transport:pipeLens:14, Lens (Orange)
-BuildCraft|Transport:pipeLens:15, Lens (White)
-BuildCraft|Transport:pipeLens:16, Filter (Black)
-BuildCraft|Transport:pipeLens:17, Filter (Red)
-BuildCraft|Transport:pipeLens:18, Filter (Green)
-BuildCraft|Transport:pipeLens:19, Filter (Brown)
-BuildCraft|Transport:pipeLens:20, Filter (Blue)
-BuildCraft|Transport:pipeLens:21, Filter (Purple)
-BuildCraft|Transport:pipeLens:22, Filter (Cyan)
-BuildCraft|Transport:pipeLens:23, Filter (Light Gray)
-BuildCraft|Transport:pipeLens:24, Filter (Gray)
-BuildCraft|Transport:pipeLens:25, Filter (Pink)
-BuildCraft|Transport:pipeLens:26, Filter (Lime)
-BuildCraft|Transport:pipeLens:27, Filter (Yellow)
-BuildCraft|Transport:pipeLens:28, Filter (Light Blue)
-BuildCraft|Transport:pipeLens:29, Filter (Magenta)
-BuildCraft|Transport:pipeLens:30, Filter (Orange)
-BuildCraft|Transport:pipeLens:31, Filter (White)
-BuildCraft|Transport:pipeLens:32, Lens (Clear)
-BuildCraft|Transport:pipeLens:33, Filter (Clear)
-BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
-BuildCraft|Transport:gateCopier, Gate Copier
-BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
-BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
-BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
-BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
-BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
-BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
-BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
-BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
-BuildCraft|Silicon:package, Package
-BuildCraft|Silicon:redstoneCrystal, Crystalized Redstone
 BuildCraft|Robotics:robot, Robot
 BuildCraft|Robotics:robotStation, item.robotStation.name
 BuildCraft|Robotics:redstone_board, Redstone Board
@@ -25098,88 +25098,88 @@ miscutils:itemsteelrotor, ic2.itemVibrantRotor.name
 miscutils:itemIridiumRotorBlade, Iridium Rotor Blade
 miscutils:itemIridiumShaft, Iridium Shaft
 miscutils:itemwcarbonrotor, ic2.itemIridiumRotor.name
-miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
-miscutils:itemCellAmericium241, Americium-241 Cell
-miscutils:itemCellAstatine, Astatine Cell
-miscutils:itemCellGrisium, Grisium Cell
-miscutils:itemCellHG1223, HG-1223 Cell
-miscutils:itemCellIncoloyDS, Incoloy-DS Cell
-miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
-miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
-miscutils:itemCellZirconiumTetrafluoride, Zirconium Tetrafluoride Cell
-miscutils:itemCellTumbaga, Tumbaga Cell
+miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
 miscutils:itemCellEglinSteel, Eglin Steel Cell
-miscutils:itemCellRhenium, Rhenium Cell
-miscutils:itemCellRefinedTrinium, Refined Trinium Cell
-miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
-miscutils:itemCellActinium, Actinium Cell
-miscutils:itemCellPlutonium238, Plutonium-238 Cell
-miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
-miscutils:itemCellInconel625, Inconel-625 Cell
-miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
-miscutils:itemCellCurium, Curium Cell
-miscutils:itemCellTechnetium, Technetium Cell
-miscutils:itemCellHafnium, Hafnium Cell
-miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
-miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
-miscutils:itemCellRhodium, Rhodium Cell
-miscutils:itemCellStrontium90, Strontium-90 Cell
-miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
-miscutils:itemCellUranium233, Uranium 233 Cell
-miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
-miscutils:itemCellEnergyCrystal, Energy Crystal Cell
-miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
-miscutils:itemCellTantalloy61, Tantalloy-61 Cell
-miscutils:itemCellPotin, Potin Cell
 miscutils:itemCellZirconium, Zirconium Cell
 miscutils:itemCellUranium232, Uranium 232 Cell
-miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
-miscutils:itemCellProtactinium, Protactinium Cell
 miscutils:itemCellZeron100, Zeron-100 Cell
-miscutils:itemCellRadium, Radium Cell
-miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
 miscutils:itemCellBromine, Bromine Cell
-miscutils:itemCellBloodSteel, Blood Steel Cell
-miscutils:itemCellSelenium, Selenium Cell
-miscutils:itemCellFermium, Fermium Cell
-miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
-miscutils:itemCellTalonite, Talonite Cell
-miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
-miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
-miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
-miscutils:itemCellIncoloy020, Incoloy-020 Cell
-miscutils:itemCellPlutonium239, Plutonium 239 Cell
-miscutils:itemCellInconel690, Inconel-690 Cell
 miscutils:itemCellQuantum, Quantum Cell
-miscutils:itemCellHastelloyW, Hastelloy-W Cell
-miscutils:itemCellNeptunium, Neptunium Cell
-miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
-miscutils:itemCellThallium, Thallium Cell
-miscutils:itemCellBerkelium, Berkelium Cell
-miscutils:itemCellInconel792, Inconel-792 Cell
-miscutils:itemCellIodine, Iodine Cell
-miscutils:itemCellRuthenium, Ruthenium Cell
+miscutils:itemCellActinium, Actinium Cell
+miscutils:itemCellProtactinium, Protactinium Cell
 miscutils:itemCellStaballoy, Staballoy Cell
-miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
-miscutils:itemCellHastelloyX, Hastelloy-X Cell
-miscutils:itemCellPolonium, Polonium Cell
-miscutils:itemCellHastelloyN, Hastelloy-N Cell
-miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
-miscutils:itemCellEinsteinium, Einsteinium Cell
-miscutils:itemCellGermanium, Germanium Cell
-miscutils:itemCellKrypton, Krypton Cell
-miscutils:itemCellCalifornium, Californium Cell
-miscutils:itemCellTantalloy60, Tantalloy-60 Cell
-miscutils:itemCellNeon, Neon Cell
+miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
 miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
-miscutils:itemCellStellite, Stellite Cell
+miscutils:itemCellPolonium, Polonium Cell
+miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
+miscutils:itemCellHastelloyW, Hastelloy-W Cell
+miscutils:itemCellCalifornium, Californium Cell
+miscutils:itemCellPlutonium239, Plutonium 239 Cell
+miscutils:itemCellBloodSteel, Blood Steel Cell
+miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
 miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
-miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
-miscutils:itemCellFrancium, Francium Cell
-miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
-miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellHastelloyN, Hastelloy-N Cell
+miscutils:itemCellRhodium, Rhodium Cell
+miscutils:itemCellTechnetium, Technetium Cell
+miscutils:itemCellZirconiumTetrafluoride, Zirconium Tetrafluoride Cell
+miscutils:itemCellPlutonium238, Plutonium-238 Cell
+miscutils:itemCellRuthenium, Ruthenium Cell
+miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
+miscutils:itemCellHG1223, HG-1223 Cell
+miscutils:itemCellInconel690, Inconel-690 Cell
 miscutils:itemCellPolonium210, Polonium-210 Cell
+miscutils:itemCellIncoloy020, Incoloy-020 Cell
+miscutils:itemCellCurium, Curium Cell
+miscutils:itemCellTantalloy60, Tantalloy-60 Cell
+miscutils:itemCellStrontium90, Strontium-90 Cell
+miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
+miscutils:itemCellTumbaga, Tumbaga Cell
+miscutils:itemCellIncoloyDS, Incoloy-DS Cell
+miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
+miscutils:itemCellTalonite, Talonite Cell
+miscutils:itemCellHastelloyX, Hastelloy-X Cell
+miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
+miscutils:itemCellPotin, Potin Cell
+miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
+miscutils:itemCellKrypton, Krypton Cell
+miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
+miscutils:itemCellUranium233, Uranium 233 Cell
+miscutils:itemCellIodine, Iodine Cell
+miscutils:itemCellHafnium, Hafnium Cell
+miscutils:itemCellGermanium, Germanium Cell
+miscutils:itemCellBerkelium, Berkelium Cell
+miscutils:itemCellGrisium, Grisium Cell
+miscutils:itemCellFermium, Fermium Cell
+miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
+miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
+miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
+miscutils:itemCellEnergyCrystal, Energy Crystal Cell
+miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
+miscutils:itemCellTantalloy61, Tantalloy-61 Cell
+miscutils:itemCellNeon, Neon Cell
+miscutils:itemCellFrancium, Francium Cell
+miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
+miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
+miscutils:itemCellInconel625, Inconel-625 Cell
+miscutils:itemCellAmericium241, Americium-241 Cell
+miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
+miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
+miscutils:itemCellRefinedTrinium, Refined Trinium Cell
+miscutils:itemCellRhenium, Rhenium Cell
+miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
+miscutils:itemCellRadium, Radium Cell
+miscutils:itemCellEinsteinium, Einsteinium Cell
+miscutils:itemCellStellite, Stellite Cell
+miscutils:itemCellAstatine, Astatine Cell
+miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
+miscutils:itemCellThallium, Thallium Cell
+miscutils:itemCellSelenium, Selenium Cell
+miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
+miscutils:itemCellInconel792, Inconel-792 Cell
+miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
 miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
+miscutils:itemCellNeptunium, Neptunium Cell
 Australia:australia.trigger, item.australia.trigger.name
 ToxicEverglades:everglades.trigger, §6Alkalus Disk [§cActivated§6]
 hardcorewither:StarryApple, Starry Apple
@@ -27103,6 +27103,9 @@ ThermalDynamics:cover:0, Gravel Cover
 ThermalDynamics:cover:0, Gravel Cover
 ThermalDynamics:cover:0, Smoke Cover
 ThermalDynamics:cover:0, Snow Cover
+ThermalDynamics:cover:0, Water Spring Cover
+ThermalDynamics:cover:0, Oil Spring Cover
+ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
 ThermalDynamics:cover:0, ic2.blockOreCopper Cover
 ThermalDynamics:cover:0, ic2.blockOreTin Cover
 ThermalDynamics:cover:0, ic2.blockOreUran Cover
@@ -27969,9 +27972,6 @@ ThermalDynamics:cover:0, Water Hive Cover
 ThermalDynamics:cover:0, Rock Hive Cover
 ThermalDynamics:cover:0, Nether Hive Cover
 ThermalDynamics:cover:0, Marble Hive Cover
-ThermalDynamics:cover:0, Water Spring Cover
-ThermalDynamics:cover:0, Oil Spring Cover
-ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
 ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Oil Cover
 ThermalDynamics:cover:0, Fuel Cover
@@ -30470,22 +30470,22 @@ ThermalDynamics:cover:0, Molten Constantan Cover
 ThermalDynamics:cover:0, Fairy Block Cover
 ThermalDynamics:cover:0, Pokefennium Block Cover
 ThermalDynamics:cover:0, RedAurum Block Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
 ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
 ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -31002,7 +31002,7 @@ ThermalDynamics:cover:0, Red Crystal Cover
 ThermalDynamics:cover:0, Black Crystal Cover
 ThermalDynamics:cover:0, Deep Crystal Cover
 ThermalDynamics:cover:0, Primordial Fossil Cover
-ThermalDynamics:cover:0, tile.null.name Cover
+ThermalDynamics:cover:0, Unnamed Block, report to mod author. Cover
 ThermalDynamics:cover:0, Planar Gateway Cover
 ThermalDynamics:cover:0, Exubitura Rose Cover
 ThermalDynamics:cover:0, Infused Quartz Block Cover
@@ -31040,7 +31040,7 @@ ThermalDynamics:cover:0, Fake Bedrock Cover
 ThermalDynamics:cover:0, Aetheric Converter Cover
 ThermalDynamics:cover:0, Nether Converter Cover
 ThermalDynamics:cover:0, Aetheric Crucible Cover
-ThermalDynamics:cover:0, tile.null.name Cover
+ThermalDynamics:cover:0, Unnamed Block, report to mod author. Cover
 ThermalDynamics:retriever:0, Retriever
 ThermalDynamics:retriever:1, Hardened Retriever
 ThermalDynamics:retriever:2, Reinforced Retriever
