@@ -4,5 +4,5 @@ Interfaces:
 Constructors: 
 	public lance5057.tDefense.core.tools.ModifierSoul(net.minecraft.item.ItemStack[] stacks, int effectIndex, java.lang.String key, java.lang.String color, java.lang.String tooltipName, java.lang.String[] exclusive, int modsNeeded, java.lang.String[] modExclusions, java.lang.String name)
 Modifiers using this: 
-	class lance5057.tDefense.core.tools.ModifierSoul [key=Ensouledstacks=[1xitem.modItemsCore@3]effectIndex=199random=java.util.Random@60448ffa]
+	class lance5057.tDefense.core.tools.ModifierSoul [key=Ensouledstacks=[1xitem.modItemsCore@3]effectIndex=199random=java.util.Random@b848a4b]
 ********************************

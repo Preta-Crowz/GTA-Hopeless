@@ -8,4 +8,4 @@ Nice CPU : I'm worked on i5-2500
 # Warning
 Your game will crashes on first launch. I don't know why it happens.
 Loading can be stopped anytime. Just wait with tea time.
-Your game will freeze at 83% loaded (Post Initialization: loading Iguana Tinker Tweaks)
+Your game will freeze at 83% loaded.
