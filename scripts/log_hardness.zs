@@ -1,0 +1,1 @@
+<Thaumcraft:blockMagicalLog:0>.hardness = 50;
