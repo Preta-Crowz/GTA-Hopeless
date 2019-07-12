@@ -4,5 +4,5 @@ Interfaces:
 Constructors: 
 	public tconstruct.modifiers.accessory.GloveSpeed(int effectIndex, net.minecraft.item.ItemStack[] stacks, int[] increase)
 Modifiers using this: 
-	class tconstruct.modifiers.accessory.GloveSpeed [increase=[1, 9]key=Redstonestacks=[1xitem.redstone@0, 1xtile.blockRedstone@0]effectIndex=1random=java.util.Random@b848a4b]
+	class tconstruct.modifiers.accessory.GloveSpeed [increase=[1, 9]key=Redstonestacks=[1xitem.redstone@0, 1xtile.blockRedstone@0]effectIndex=1random=java.util.Random@3484a4d4]
 ********************************
