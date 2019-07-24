@@ -1,16 +1,16 @@
 {
   "itemname": "dungeonChest bag",
   "color": [
-    182,
-    99,
-    158,
+    138,
+    152,
+    184,
     255
   ],
   "invSlotsMin": 36,
   "invSlotsMax": 36,
   "amountOfItemsMin": 0,
   "amountOfItemsMax": 72,
-  "rarity": "Kami",
+  "rarity": "Creation",
   "items": [
     {
       "min": 1,
@@ -417,1183 +417,6 @@
       "max": 1,
       "weight": 2,
       "itemstack": {
-        "item": "evilcraft:broom",
-        "stacksize": 1,
-        "damage": 0
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 5,
-      "itemstack": {
-        "item": "evilcraft:originsOfDarkness",
-        "stacksize": 1,
-        "damage": 0
-      }
-    },
-    {
-      "min": 5,
-      "max": 32,
-      "weight": 10,
-      "itemstack": {
-        "item": "evilcraft:condensedBlood",
-        "stacksize": 1,
-        "damage": 0
-      }
-    },
-    {
-      "min": 1,
-      "max": 3,
-      "weight": 2,
-      "itemstack": {
-        "item": "evilcraft:garmonbozia",
-        "stacksize": 1,
-        "damage": 0
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "bbb87dbe-690f-4205-bdc5-72ffb8ebc29d",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "5356259987938927332L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "3",
-            "Rotation": [
-              "5.796739f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891176402459L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "net.minecraft.entity.monster.EntitySkeleton",
-            "remainingLife": "858",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "bbb87dbe-690f-4205-bdc5-72ffb8ebc29d"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "61699b2e-d327-4a01-9f1e-0ea8c3f06bc6",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "9035691784165676377L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "0",
-            "Rotation": [
-              "2.2702596f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891177704338L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "com.bioxx.tfc.Entities.Mobs.EntityWolfTFC",
-            "remainingLife": "448",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "61699b2e-d327-4a01-9f1e-0ea8c3f06bc6"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "068d4de0-3a75-4c6a-9f01-8c37e16a394c",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "6156219447837394193L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "3",
-            "Rotation": [
-              "0.06345869f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891177956254L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "com.bioxx.tfc.Entities.Mobs.EntityWolfTFC",
-            "remainingLife": "697",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "068d4de0-3a75-4c6a-9f01-8c37e16a394c"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "e1dc75c6-dcf9-4e0c-8fbf-9c6e5e44527c",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "1919509130075070742L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "0",
-            "Rotation": [
-              "5.1530085f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891178161209L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "crazypants.enderzoo.entity.EntityWitherWitch",
-            "remainingLife": "257",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "e1dc75c6-dcf9-4e0c-8fbf-9c6e5e44527c"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "853c80ef-3c37-49fd-aa49-938b674adae6",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "7067605437662459866L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "1",
-            "Rotation": [
-              "5.5252533f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891185113791L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "com.bioxx.tfc.Entities.Mobs.EntityBlazeTFC",
-            "remainingLife": "865",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "853c80ef-3c37-49fd-aa49-938b674adae6"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "3e13f558-fb72-4949-a842-07879924bc49",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "6366922539429371262L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "4",
-            "Rotation": [
-              "3.5286503f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891185850258L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "crazypants.enderzoo.entity.EntityWitherWitch",
-            "remainingLife": "643",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "3e13f558-fb72-4949-a842-07879924bc49"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "b2faeaab-fc87-4f91-98d3-836024f268ae",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "3735893552875745873L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "4",
-            "Rotation": [
-              "4.1378975f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891186289712L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "com.bioxx.tfc.Entities.Mobs.EntitySkeletonTFC",
-            "remainingLife": "572",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "b2faeaab-fc87-4f91-98d3-836024f268ae"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "0b7509f0-2458-4160-9ce1-2772b9a45ac2",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "1760606427543162262L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "2",
-            "Rotation": [
-              "2.0212271f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891187471853L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "net.minecraft.entity.passive.EntityWolf",
-            "remainingLife": "965",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "0b7509f0-2458-4160-9ce1-2772b9a45ac2"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "b5c31e33-8224-4f96-a4bf-73721be9d2ec",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "6093638314320810121L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "3",
-            "Rotation": [
-              "0.61844605f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891187729057L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "net.minecraft.entity.passive.EntityPig",
-            "remainingLife": "946",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "b5c31e33-8224-4f96-a4bf-73721be9d2ec"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "069a79f4-44e9-4726-a5be-fca90e38aaf5",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "-4223678784699521628L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "0",
-            "Rotation": [
-              "5.298636f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891190486764L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "net.minecraft.entity.monster.EntitySilverfish",
-            "remainingLife": "844",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "069a79f4-44e9-4726-a5be-fca90e38aaf5"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 1,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "playerName": "Forgotten Player",
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "0b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "777e7aa3-9373-4511-8d75-f99d23ebe252",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "-8740777039496335330L",
-            "Health": "3s",
-            "playerName": "Forgotten Player",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "2",
-            "Rotation": [
-              "1.8590506f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891190711934L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "innerEntity": "net.minecraft.entity.passive.EntityChicken",
-            "remainingLife": "699",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          },
-          "playerId": "777e7aa3-9373-4511-8d75-f99d23ebe252"
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 3,
-      "itemstack": {
-        "item": "evilcraft:boxOfEternalClosure",
-        "stacksize": 1,
-        "damage": 0,
-        "nbt": {
-          "spiritTag": {
-            "Attributes": [
-              {
-                "Base": "3.0d",
-                "Name": "generic.maxHealth"
-              },
-              {
-                "Base": "0.0d",
-                "Name": "generic.knockbackResistance"
-              },
-              {
-                "Base": "0.5d",
-                "Name": "generic.movementSpeed"
-              },
-              {
-                "Base": "10.0d",
-                "Name": "generic.followRange"
-              },
-              {
-                "Base": "4.0d",
-                "Name": "generic.attackDamage"
-              }
-            ],
-            "Invulnerable": "0b",
-            "PortalCooldown": "0",
-            "AbsorptionAmount": "0.0f",
-            "FallDistance": "0.0f",
-            "DeathTime": "0s",
-            "DropChances": [
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f",
-              "0.085f"
-            ],
-            "PersistenceRequired": "0b",
-            "isSwarm": "1b",
-            "HealF": "3.0f",
-            "id": "vengeanceSpirit",
-            "playerId": "",
-            "Motion": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Leashed": "0b",
-            "UUIDLeast": "-2594724374139279977L",
-            "Health": "3s",
-            "playerName": "",
-            "Air": "300s",
-            "OnGround": "0b",
-            "Dimension": "0",
-            "swarmTier": "4",
-            "Rotation": [
-              "6.259589f",
-              "0.0f"
-            ],
-            "frozenDuration": "0",
-            "UUIDMost": "545891061536963L",
-            "Equipment": [
-              {},
-              {},
-              {},
-              {},
-              {}
-            ],
-            "CustomName": "",
-            "Pos": [
-              "0.0d",
-              "0.0d",
-              "0.0d"
-            ],
-            "Fire": "0s",
-            "CanPickUpLoot": "0b",
-            "remainingLife": "442",
-            "HurtTime": "0s",
-            "buildupDuration": "0",
-            "AttackTime": "0s",
-            "CustomNameVisible": "0b"
-          }
-        }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 2,
-      "itemstack": {
         "item": "OpenBlocks:technicolorGlasses",
         "stacksize": 1,
         "damage": 0
@@ -1792,11 +615,31 @@
     {
       "min": 1,
       "max": 1,
+      "weight": 5,
+      "itemstack": {
+        "item": "TConstruct:heartCanister",
+        "stacksize": 1,
+        "damage": 1
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
       "weight": 2,
       "itemstack": {
         "item": "chococraft:Chocopedia",
         "stacksize": 1,
         "damage": 0
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "weight": 5,
+      "itemstack": {
+        "item": "OpenComputers:item",
+        "stacksize": 1,
+        "damage": 4
       }
     },
     {
@@ -1872,26 +715,6 @@
     {
       "min": 1,
       "max": 1,
-      "weight": 5,
-      "itemstack": {
-        "item": "TConstruct:heartCanister",
-        "stacksize": 1,
-        "damage": 1
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 5,
-      "itemstack": {
-        "item": "OpenComputers:item",
-        "stacksize": 1,
-        "damage": 4
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
       "weight": 1,
       "itemstack": {
         "item": "tinkersdefense:modItemsCore",
@@ -1918,7 +741,7 @@
         "stacksize": 1,
         "damage": 6,
         "nbt": {
-          "title": "TG.personaltitle.seeker"
+          "title": "TG.personaltitle.archchancellor"
         }
       }
     },
@@ -2151,13 +974,33 @@
         "stacksize": 1,
         "damage": 0,
         "nbt": {
-          "aqua": "200",
-          "terra": "200",
-          "ignis": "400",
-          "ordo": "0",
-          "perditio": "200",
-          "aer": "0"
+          "aqua": "300",
+          "terra": "300",
+          "ignis": "200",
+          "ordo": "400",
+          "perditio": "400",
+          "aer": "300"
         }
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "weight": 9,
+      "itemstack": {
+        "item": "ExtraUtilities:divisionSigil",
+        "stacksize": 1,
+        "damage": 0
+      }
+    },
+    {
+      "min": 1,
+      "max": 5,
+      "weight": 26,
+      "itemstack": {
+        "item": "ExtraUtilities:plant/ender_lilly",
+        "stacksize": 1,
+        "damage": 0
       }
     },
     {
@@ -2242,26 +1085,6 @@
             ]
           }
         }
-      }
-    },
-    {
-      "min": 1,
-      "max": 1,
-      "weight": 9,
-      "itemstack": {
-        "item": "ExtraUtilities:divisionSigil",
-        "stacksize": 1,
-        "damage": 0
-      }
-    },
-    {
-      "min": 1,
-      "max": 5,
-      "weight": 27,
-      "itemstack": {
-        "item": "ExtraUtilities:plant/ender_lilly",
-        "stacksize": 1,
-        "damage": 0
       }
     },
     {
@@ -4389,6 +3212,21 @@
         "damage": 0,
         "nbt": {
           "SkullOwner": {
+            "Name": "RCXCrafter"
+          }
+        }
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "weight": 1,
+      "itemstack": {
+        "item": "headcrumbs:head",
+        "stacksize": 1,
+        "damage": 0,
+        "nbt": {
+          "SkullOwner": {
             "Name": "RWTema"
           }
         }
@@ -5049,6 +3887,21 @@
         "damage": 0,
         "nbt": {
           "SkullOwner": {
+            "Name": "WanionCane"
+          }
+        }
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "weight": 1,
+      "itemstack": {
+        "item": "headcrumbs:head",
+        "stacksize": 1,
+        "damage": 0,
+        "nbt": {
+          "SkullOwner": {
             "Name": "Watchful11"
           }
         }
@@ -5065,6 +3918,21 @@
         "nbt": {
           "SkullOwner": {
             "Name": "WayofFlowingTime"
+          }
+        }
+      }
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "weight": 1,
+      "itemstack": {
+        "item": "headcrumbs:head",
+        "stacksize": 1,
+        "damage": 0,
+        "nbt": {
+          "SkullOwner": {
+            "Name": "Wealthyturtle"
           }
         }
       }

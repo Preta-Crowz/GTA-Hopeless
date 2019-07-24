@@ -62,7 +62,7 @@ NEI.hide(<minecraft:portal:*>);
 NEI.hide(<minecraft:end_portal:*>);
 
 // Missing Texture / Debug
-NEI.hide(<AetherExpansion:fakeBedrockPortal>);
+// NEI.hide(<AetherExpansion:fakeBedrockPortal>);
 NEI.hide(<Aroma1997Core:wrenched>);
 NEI.hide(<ThaumicHorizons:portalTH>);
 NEI.hide(<malisisdoors:null>);

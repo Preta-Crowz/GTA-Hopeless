@@ -4,7 +4,7 @@ Interfaces:
 Constructors: 
 	public iguanaman.iguanatweakstconstruct.leveling.modifiers.ModXpAwareRedstone(tconstruct.modifiers.tools.ModRedstone originalModifier)
 Modifiers using this: 
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModXpAwareRedstone [originalModifier=tconstruct.modifiers.tools.ModRedstone@60fc27d0tooltipName=¡×4Hastemax=50increase=[1, 9]key=Redstonestacks=[1xitem.redstone@0, 1xtile.blockRedstone@0]effectIndex=2random=java.util.Random@3484a4d4]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModXpAwareRedstone [originalModifier=tconstruct.modifiers.tools.ModRedstone@4ebebedetooltipName=¡×4Hastemax=50increase=[1, 9]key=Redstonestacks=[1xitem.redstone@0, 1xtile.blockRedstone@0]effectIndex=2random=java.util.Random@11cdd72]
 ********************************
 ********************************
 Class: iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost
@@ -12,13 +12,13 @@ Interfaces:
 Constructors: 
 	public iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost(net.minecraft.item.ItemStack[] tooltipName, int effectIndex, int maxLvl)
 Modifiers using this: 
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@2]effectIndex=20random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@0]effectIndex=21random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@4]effectIndex=22random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@1]effectIndex=23random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@2]effectIndex=24random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@3]effectIndex=25random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@0]effectIndex=26random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@1]effectIndex=27random=java.util.Random@3484a4d4]
-	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.netherStar@0]effectIndex=28random=java.util.Random@3484a4d4]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@2]effectIndex=20random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@0]effectIndex=21random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@4]effectIndex=22random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@1]effectIndex=23random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@2]effectIndex=24random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@3]effectIndex=25random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.iguana.tcon.skull@0]effectIndex=26random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.skull@1]effectIndex=27random=java.util.Random@11cdd72]
+	class iguanaman.iguanatweakstconstruct.leveling.modifiers.ModMiningLevelBoost [key=Mining Level Booststacks=[1xitem.netherStar@0]effectIndex=28random=java.util.Random@11cdd72]
 ********************************
