@@ -4,5 +4,5 @@ Interfaces:
 Constructors: 
 	public lance5057.tDefense.core.tools.modifiers.Thaumcraft.modifierRepairVis(net.minecraft.item.ItemStack[] stacks, int effectIndex, java.lang.String key, java.lang.String color, java.lang.String tooltipName)
 Modifiers using this: 
-	class lance5057.tDefense.core.tools.modifiers.Thaumcraft.modifierRepairVis [key=Capsstacks=[1xitem.WandCap@0]effectIndex=227random=java.util.Random@11cdd72]
+	class lance5057.tDefense.core.tools.modifiers.Thaumcraft.modifierRepairVis [key=Capsstacks=[1xitem.WandCap@0]effectIndex=227random=java.util.Random@4eb79fec]
 ********************************

@@ -4,5 +4,5 @@ Interfaces:
 Constructors: 
 	public us.drullk.thermalsmeltery.common.plugins.tcon.tools.ModVoidTouch(net.minecraft.item.ItemStack[] stacks, int effectIndex, java.lang.String key, java.lang.String color, java.lang.String tooltipName)
 Modifiers using this: 
-	class us.drullk.thermalsmeltery.common.plugins.tcon.tools.ModVoidTouch [key=Voidingstacks=[1xitem.thermalsmeltery.misc@0]effectIndex=20random=java.util.Random@11cdd72]
+	class us.drullk.thermalsmeltery.common.plugins.tcon.tools.ModVoidTouch [key=Voidingstacks=[1xitem.thermalsmeltery.misc@0]effectIndex=20random=java.util.Random@4eb79fec]
 ********************************
